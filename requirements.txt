@@ -1,0 +1,26 @@
+# SAP Internal libraries
+generative-ai-hub-sdk[all]
+
+# Langchain libraries
+langchain
+langgraph
+langsmith
+langchain_ollama
+
+# Configs to run
+ipykernel
+python-dotenv
+
+# tools
+pypdf
+
+#Vectorstore
+chromadb
+
+
+# UI & Backend
+streamlit
+fastapi
+
+
+
