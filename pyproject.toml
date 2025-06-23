@@ -8,6 +8,7 @@ dependencies = [
     "chromadb>=1.0.7",
     "fastapi>=0.115.9",
     "generative-ai-hub-sdk[all]>=4.10.2",
+    "grandalf>=0.8",
     "ipykernel>=6.29.5",
     "langchain>=0.3.23",
     "langchain-ollama>=0.3.2",

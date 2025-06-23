@@ -1,0 +1,14 @@
+Your Conversation Log:
+You: hi
+AI: Hello! How can I assist you today?
+
+You: im rakesh
+AI: Hi Rakesh! Nice to meet you. How can I help you today?
+
+You: what is my name?
+AI: You mentioned that your name is Rakesh. How can I assist you further?
+
+You: eixt
+AI: It seems like you might be trying to exit the conversation. If you have any more questions or need assistance, feel free to ask. Otherwise, have a great day!
+
+End of Conversation

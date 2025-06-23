@@ -11,3 +11,5 @@ wheels/
 vectorstores/
 .env
 *.lock
+notebooks/
+tutorials/
